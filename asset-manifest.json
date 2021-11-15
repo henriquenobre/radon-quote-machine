@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/radon-quote-machine/static/css/main.b88a5883.chunk.css",
+    "main.js": "/radon-quote-machine/static/js/main.59290f27.chunk.js",
+    "main.js.map": "/radon-quote-machine/static/js/main.59290f27.chunk.js.map",
+    "runtime-main.js": "/radon-quote-machine/static/js/runtime-main.f2dc6f18.js",
+    "runtime-main.js.map": "/radon-quote-machine/static/js/runtime-main.f2dc6f18.js.map",
+    "static/js/2.5cbee586.chunk.js": "/radon-quote-machine/static/js/2.5cbee586.chunk.js",
+    "static/js/2.5cbee586.chunk.js.map": "/radon-quote-machine/static/js/2.5cbee586.chunk.js.map",
+    "static/js/3.ba6ffe81.chunk.js": "/radon-quote-machine/static/js/3.ba6ffe81.chunk.js",
+    "static/js/3.ba6ffe81.chunk.js.map": "/radon-quote-machine/static/js/3.ba6ffe81.chunk.js.map",
+    "index.html": "/radon-quote-machine/index.html",
+    "static/css/main.b88a5883.chunk.css.map": "/radon-quote-machine/static/css/main.b88a5883.chunk.css.map",
+    "static/js/2.5cbee586.chunk.js.LICENSE.txt": "/radon-quote-machine/static/js/2.5cbee586.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f2dc6f18.js",
+    "static/js/2.5cbee586.chunk.js",
+    "static/css/main.b88a5883.chunk.css",
+    "static/js/main.59290f27.chunk.js"
+  ]
+}
